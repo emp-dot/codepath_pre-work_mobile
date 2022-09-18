@@ -4,11 +4,10 @@
 `TODO://` Add app description
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-![](https://i.imgur.com/cyht4it.gif)
 
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
+!(https://i.imgur.com/cyht4it.gif)
+
 
 ### Required User Stories
 - [*] 1. User sees custom text in a label - Hello from {name}!
